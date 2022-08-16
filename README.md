@@ -29,7 +29,7 @@ const aboutMe = {
    technologies: {
       
       backEnd: {
-         js: ["PHP","MYSQL"],
+         php: ["laravel","MYSQL"],
       },
       databases: ["Mysql"],
       hosting_and_deployment: ["Heroku", "Firebase", "Netlify", "render-web", "Github"],
@@ -43,7 +43,7 @@ const aboutMe = {
 
 ````bash
 > help --contac
-> linkedin: ofordu harrison
+> linkedin: akloo-jamilu
 >github: Akloo-Jamilu 
 > Email: jhasleg126@gmail.com 
 ````
@@ -67,7 +67,7 @@ const aboutMe = {
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akloo-jamilu&layout=compact)](https://github.com/ebubeanyiam/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akloo-jamilu&layout=compact)](https://github.com/Akloo-jamilu/github-readme-stats) 
 
 <br />
 
@@ -77,11 +77,11 @@ const aboutMe = {
 
 #### Connect with me:
 
-[<img align="left" alt="ofordu.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="oforduhh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Akloo-jamilu" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="iamAkloo | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
-[<img align="left" alt="ebubeanyiam | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ebubeanyiam | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="akloo-jamilu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="iam_Aklooo | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
 [twitter]: https://twitter.com/iamAkloo 
