@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### My name is Hassan Jamilu 👋 
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+### My name is Hassan Jamilu  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
 
 #### I'm a PHP enthusiast
 
@@ -74,6 +75,20 @@ const aboutMe = {
 <img alt="Akloo Jamilu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Akloo-jamilu&show_icons=true" /> &nbsp;
 
 <br />
+
+
+<p>
+    <a>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akloo-jamilu&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+
+<br />
+
+<a><img alt="Akloo Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Akloo-jamilu&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+
+<br/>
 
 #### Connect with me:
 
