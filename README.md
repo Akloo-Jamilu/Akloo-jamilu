@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 #### I'm a PHP and Java enthusiast
 
 - 🌱 I’m currently learning everything concerning PHP and Java
-- 🥅 2024 Goals: Continue to grow 
+- 🥅 2022 Goals: Continue to grow 
 - ⚡ Fun fact: I love to travel, design, play games, watch football and above all coding
 
 ```javascript
