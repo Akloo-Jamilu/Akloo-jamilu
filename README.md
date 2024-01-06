@@ -15,22 +15,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-### My name is Hassan Jamilu  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
+### Hello, my name is Hassan Jamilu  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
 
-#### I'm a PHP enthusiast
+#### I'm a PHP and Java enthusiast
 
-- 🌱 I’m currently learning everything concerning PHP
-- 🥅 2022 Goals: Continue to grow 
-- ⚡ Fun fact: I love to travel, play games and watch football
+- 🌱 I’m currently learning everything concerning PHP and Java
+- 🥅 2024 Goals: Continue to grow 
+- ⚡ Fun fact: I love to travel, design, play games, watch football and above all coding
 
 ```javascript
-const aboutMe = {
+public String aboutMe = {
    pronouns: "he" | "him",
-   code: ["PHP","laravel","HTML", "CSS"],
+   code: ["PHP","laravel","HTML", "CSS"],["Java","Spring Boot"]
    technologies: {
       
       backEnd: {
-         php: ["laravel","MYSQL"],
+         php: ["laravel"],
+          Java: ["Spring Boot"],
       },
       databases: ["Mysql"],
       hosting_and_deployment: ["Heroku", "Firebase", "Netlify", "render-web", "Github"],
