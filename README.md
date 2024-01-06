@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ```javascript
 public String aboutMe () {
    pronouns: "he" | "him",
-   code: ["PHP","laravel","HTML", "CSS"],["Java","Spring Boot"]
+   code: ["PHP","JAVA"]
    technologies: {
       
       backEnd: {
