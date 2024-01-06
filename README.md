@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love to travel, design, play games, watch football and above all coding
 
 ```javascript
-public String aboutMe = {
+public String aboutMe () {
    pronouns: "he" | "him",
    code: ["PHP","laravel","HTML", "CSS"],["Java","Spring Boot"]
    technologies: {
