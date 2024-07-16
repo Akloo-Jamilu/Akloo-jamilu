@@ -2,7 +2,7 @@
 - 🔗 BackEnd Developer
 - 👀 Interested in new challenges 
 - 🌱 Currently learning Java && Aiken
-- 💞️ I’m looking to collaborate on Smart and other backEnd Projets
+- 💞️ I’m looking to collaborate on Smart Contract and other backEnd Projets
 - 📫 How to reach me twitter @iamAkloo
 
 <!---
