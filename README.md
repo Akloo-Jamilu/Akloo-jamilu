@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jamilu @akloo
+- 👋 Hi, I’m Jamilu @Akloo-jamilu
 - 🔗 BackEnd Developer
 - 👀 Interested in new challenges 
 - 🌱 Currently learning Java && Aiken
