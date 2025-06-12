@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Jamilu @Akloo-jamilu
 - 🔗 BackEnd Developer
 - 👀 Interested in new challenges 
-- 🌱 Currently learning Java && Aiken
-- 💞️ I’m looking to collaborate on Smart Contract and other backEnd Projets
+- 🌱 Currently learning Java && Laravel 
+- 💞️ I’m looking to collaborate on backEnd Projets
 - 📫 How to reach me twitter @iamAkloo
 
 <b>My GitHub Stats</b>
